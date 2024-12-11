@@ -1,0 +1,3 @@
+              - name: Create a task with Microsoft Graph using MSAL
+                uses: anoopt/ms-graph-create-task@v1
+            
